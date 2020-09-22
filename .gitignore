@@ -11,6 +11,9 @@ python_scripts/
 # PyCharm stuff
 .idea/
 
+# Visual studio code
+.vscode/
+
 # ### General python stuff ###
 
 # Byte-compiled / optimized / DLL files
