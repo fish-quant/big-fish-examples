@@ -8,3 +8,9 @@
 | smFISH image and its coordinates representation |
 | ------------- |
 | ![](images/plot_cell.png "Nucleus in blue, mRNAs in red, foci in orange and transcription sites in green") |
+
+
+## Binder
+You can run this examples on mybinder.org without the need for a local Python installation
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fish-quant/big-fish-examples/master?filepath=notebooks)
