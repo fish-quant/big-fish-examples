@@ -1,7 +1,7 @@
 # Big-FISH examples
 
 [![License](https://img.shields.io/badge/license-BSD%203--Clause-green)](https://github.com/fish-quant/big-fish/blob/master/LICENSE)
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Python version](https://img.shields.io/pypi/pyversions/big-fish.svg)](https://pypi.python.org/pypi/big-fish/)
 
 **Big-FISH-examples** is a repository where we provide images, Jupyter notebooks and Python scripts to illustrate how to use the different workflows available in [Big-FISH](https://github.com/fish-quant/big-fish).
 
